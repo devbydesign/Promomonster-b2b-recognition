@@ -1,14 +1,14 @@
 :root {
-  --primary-color: #23456C; /* RBB Marketing Blue */
+  --primary-color: #5FBA0F; /* RBB Marketing Blue */
   --secondary-color: #000000; /* Black */
   --accent-color: #f7b801; /* Energetic Yellow */
-  --brand-green: #23456C; /* Brand Green */
-  --brand-orange: #23456C; /* Alias for primary color to fix existing references */
+  --brand-green: #5FBA0F; /* Brand Green */
+  --brand-orange: #5FBA0F; /* Alias for primary color to fix existing references */
   --dark-color: #000000; /* Black for text */
   --light-color: #ffffff; /* White background */
   --medium-color: #f0f2f5; /* Light grey for backgrounds/borders */
   --text-muted: #666666; /* Muted text color */
-  --success-color: #23456C; /* RBB Marketing Blue for checkmarks etc. */
+  --success-color: #5FBA0F; /* RBB Marketing Blue for checkmarks etc. */
   --border-radius: 6px;
   --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   --font-secondary: 'Georgia', serif; /* For select headings or accents */
@@ -1603,7 +1603,7 @@ main.container > h1 + p { /* Selects paragraph immediately following h1 in main 
 .program-module {
   position: relative;
   padding: 1.5rem;
-  background: #eaf2fa;
+  background: #f4fcec;
   border: 1px solid var(--border-color);
   border-radius: 8px;
   cursor: grab;
@@ -2081,7 +2081,7 @@ main.container > h1 + p { /* Selects paragraph immediately following h1 in main 
   padding: 0.5rem 1rem !important;
   border-radius: var(--border-radius) !important;
   margin-bottom: 1rem !important;
-  border-left: 4px solid #23456C !important;
+  border-left: 4px solid #5FBA0F !important;
   padding-left: 1.5rem !important;
 }
 
@@ -2618,9 +2618,9 @@ main.container > h1 + p { /* Selects paragraph immediately following h1 in main 
 /* Browse Incentives Button Styling for summary output only */
 .browse-incentives-btn {
   display: inline-block;
-  background-color: #23456C;
+  background-color: #5FBA0F;
   color: white;
-  border: 2px solid #23456C;
+  border: 2px solid #5FBA0F;
   padding: 0.5rem 1rem;
   border-radius: 6px;
   text-decoration: none;
@@ -3581,7 +3581,7 @@ main.container h3 {
 }
 
 .hero-text-overlay .overlay-background {
-  background-color: rgba(35,69,108,0.7) !important;
+  background-color: #49910b7d !important;
   border-radius: clamp(15px, 1vw + 10px, 25px) !important; /* Scale border radius */
   padding: clamp(0.4rem, 1.5vw + 0.2rem, 1.5rem) !important; /* More aggressive scaling */
   display: inline-block !important; /* Center the background on text */
