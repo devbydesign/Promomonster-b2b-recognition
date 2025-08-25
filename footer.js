@@ -3,32 +3,32 @@ document.addEventListener('DOMContentLoaded', function() {
         <footer>
             <div class="container footer-grid">
                 <div class="footer-section footer-company">
-                    <h3>RBB Marketing</h3>
-                    <p>456 Sample Road<br>Example Town, EX 67890<br>(987) 654-3210</p>
+                    <h3>PromoMonster</h3>
+                    <p>1563 Barclay Blvd<br>Buffalo Grove, Illinois 60089<br>(847) 877-2240</p>
                 </div>
                 <div class="footer-section footer-links">
                     <h3>Quick Links</h3>
                     <ul>
-                        <li><a href="#">Search</a></li>
+                        
                         <li><a href="contact.html">Contact Us</a></li>
-                        <li><a href="contact.html">Support</a></li>
+                     
                         <li><a href="contact.html">Feedback and Suggestions</a></li>
                     </ul>
                 </div>
                 <div class="footer-section footer-social">
                     <h3>Follow Us</h3>
                     <div class="social-icons">
-                        <a href="https://www.facebook.com/rbbmarketing" target="_blank" aria-label="Facebook">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-                        <a href="https://x.com/rbbmarketing" target="_blank" aria-label="X (Twitter)">
-                            <i class="fab fa-x-twitter"></i>
-                        </a>
-                        <a href="https://www.instagram.com/rbbmarketing/" target="_blank" aria-label="Instagram">
-                            <i class="fab fa-instagram"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/company/rbb-marketing/" target="_blank" aria-label="LinkedIn">
-                            <i class="fab fa-linkedin-in"></i>
+        <a href="https://www.facebook.com/promomonsterinc" target="_blank" aria-label="Facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://x.com/promomonsterinc" target="_blank" aria-label="X (Twitter)">
+          <i class="fab fa-x-twitter"></i>
+        </a>
+        <a href="https://www.instagram.com/promomonsterinc/" target="_blank" aria-label="Instagram">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://www.linkedin.com/company/promomonster-inc-/" target="_blank" aria-label="LinkedIn">
+          <i class="fab fa-linkedin-in"></i>
                         </a>
                     </div>
                 </div>
