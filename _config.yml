@@ -1,4 +1,4 @@
-title: RBB Marketing
+title: PromoMonster
 description: Your source for premium promotional products and employee recognition solutions
 url: http://localhost:4000
 baseurl: ""
@@ -19,6 +19,6 @@ colors:
 
 # Contact Information
 contact:
-  email: info@rbbmarketing.com
-  phone: (987) 654-3210
-  address: 456 Sample Road, Example Town, EX 67890 
+  email: chuck.feldman@promo-monster.com
+  phone: (847) 877-2240
+  address: 1563 Barclay Blvd, Buffalo Grove, Illinois 60089 
